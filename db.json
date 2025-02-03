@@ -53,6 +53,15 @@
       "author_name": "Mehedi Imun Anik",
       "blog_image": "https://startnearshoring.com/wp-content/uploads/2023/07/The_Growing_Importance_of_Cybersecurity.jpg",
       "total_likes": "950"
+    },
+    {
+      "id": "7",
+      "title": "Hello",
+      "description": "If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio.",
+      "publish_date": "2025-02-03",
+      "author_name": "Rafee",
+      "blog_image": "https://cdn.mycplus.com/mycplus/wp-content/uploads/2009/02/programming-languages.jpg",
+      "total_likes": "100"
     }
   ]
 }
